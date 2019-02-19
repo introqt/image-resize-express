@@ -1,0 +1,23 @@
+{
+  "name": "image-resize-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/introqt/image-resize-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/introqt/image-resize-express/issues"
+  },
+  "homepage": "https://github.com/introqt/image-resize-express#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sharp": "^0.21.3"
+  }
+}
